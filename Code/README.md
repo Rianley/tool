@@ -1,0 +1,1 @@
+ValidateCode.php为核心类库，codeimg.php为实例化验证码文件，font文件夹为字体文件夹，index.php为演示demo文件，调用可参照
