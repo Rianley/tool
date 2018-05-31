@@ -2,7 +2,7 @@
 /**
  * 数据库封装类
  * 基于PDO
- * @author SamDing
+ * @author Rianley
  */
 namespace koboshi\tool;
 
